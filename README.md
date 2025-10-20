@@ -1,3 +1,4 @@
-"# Mon premier d‚p“t Git" 
-"Une ligne ajout‚e pour le 2e commit." 
+"# Mon premier dï¿½pï¿½t Git" 
+"Une ligne ajoutï¿½e pour le 2e commit." 
 "Nouvelle section" 
+"Salut ca va ?"
